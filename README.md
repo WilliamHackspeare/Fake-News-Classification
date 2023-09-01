@@ -9,7 +9,7 @@
 - [Results](#results)
 
 ## Introduction
-This project aims to build a machine learning model to accurately classify news articles as either 'FAKE' or 'REAL'. The project employs text cleaning, feature engineering, and Random Forest Classifier for achieving high classification accuracy.
+This project aims to build a machine learning model to accurately classify news articles as either 'FAKE' or 'REAL'. The project employs text cleaning, feature engineering, and Random Forest Classifier for achieving high classification accuracy. Dataset taken from https://www.kaggle.com/datasets/rchitic17/real-or-fake
 
 ## Technologies
 - Python 3.7

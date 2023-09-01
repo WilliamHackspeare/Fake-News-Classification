@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import re
 
 # Load the dataset
-df = pd.read_csv("C:\\Users\\amrit\\Downloads\\fake_or_real_news.csv")
+df = pd.read_csv("fake_or_real_news.csv")
 
 # Initialize WordNet Lemmatizer and stopwords
 lemmatizer = WordNetLemmatizer()
